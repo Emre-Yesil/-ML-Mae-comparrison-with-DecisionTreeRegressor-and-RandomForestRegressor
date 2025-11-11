@@ -60,7 +60,7 @@ for max laef nodes : 3000  mae = 338.68942562592076
    - Shows that feature richness improves generalization.
 ## Random Forest Regressor with limided features
    - Not as good as DecisionTreeRegressor with full features but slightly better than DecisionTreeRegressor with limited features. 
-   - Generalization point is around 50
+   - Generalization point is around 500
 ## Random Forest Regressor with full features
    - Clearly the best-performing model overall.
    - Lowest MAE (~338) with max_leaf_nodes ≥ 2000
